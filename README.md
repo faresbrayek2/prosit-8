@@ -9,7 +9,7 @@ Omnivore<T> qui hérite des 2 interfaces précédents et définit la méthode
 
 # Instruction 36 :
 Créez l’enum Food qui définit trois valeurs (MEAT, PLANT, BOTH)
-#Instruction 37 :
+# Instruction 37 :
 Implémentez l’interface Carnivore pour la classe Aquatic en passant l’énumération
 Food en paramètres.
 Implémentez l’interface Omnivore pour la classe Terrestrial en passant
